@@ -1,0 +1,20 @@
+header{
+  background:#808B96;
+  color=#fff;
+padding: 2%;
+text-align: center;
+box-shadow:3px 3px 3px #ddd;
+}
+.main{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+box-sizing: border-box;
+}
+.subdiv{
+  border: 1px solid #fff;
+  box-shadow: 3px 3px 3px #ddd;
+  padding: 1%;
+  margin: 1%;
+
+}
